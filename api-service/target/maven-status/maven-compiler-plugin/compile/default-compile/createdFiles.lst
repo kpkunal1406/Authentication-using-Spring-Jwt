@@ -1,0 +1,17 @@
+com\gen\api\integration\config\SecurityConfig.class
+com\gen\api\integration\domain\AppUser.class
+com\gen\api\integration\service\GenericService.class
+com\gen\api\integration\controller\UserController.class
+com\gen\api\integration\domain\UserRole.class
+com\gen\api\integration\service\impl\GenericServiceImpl.class
+com\gen\api\integration\config\AuthorizationServerConfig.class
+com\gen\api\integration\service\UserService.class
+com\gen\api\integration\repository\UserRepository.class
+com\gen\api\integration\repository\RoleRepository.class
+com\gen\api\vo\AppUserVO.class
+com\gen\api\integration\config\ResourceServerConfig.class
+com\gen\api\integration\controller\RoleController.class
+com\gen\api\integration\service\impl\AppUserDetailsService.class
+com\gen\api\integration\service\RoleService.class
+com\gen\api\integration\Application.class
+com\gen\api\integration\service\impl\UserServiceImpl.class
